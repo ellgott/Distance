@@ -27,7 +27,7 @@ for city in cities.keys():
     cities[city]['lon'] = lon
 
 with open("locs_clean.js", "w", encoding="utf-8") as f:
-    f.write("const locs = ")
+    f.write("const cities = ")
     json.dump(cities, f, ensure_ascii=False, indent=2)
     f.write(";")
 
