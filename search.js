@@ -37,7 +37,7 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const city_s = document.getElementById("city_1").value; // assigns search input variable name
         const city_t = document.getElementById("city_2").value; // second city
 
-        const source = cities[city_s] // Trying just one particular key
+        const source = cities[city_s] // Fetching dictionary information
 
         const target = cities[city_t] // -::-
 
