@@ -13,13 +13,25 @@
         <button type="submit">Search</button>
     </form>
 
+    <form id="sokruta_2">
+        <input type="text" id="stad_2" placeholder="City...">
+        <button type="submit">Search</button>
+    </form>
+
     <p id="output_stad_1"></p>
+    <p id="output_stad_2"></p>
 
     <script>
     document.getElementById("sokruta_1").addEventListener("submit", function(event) {
         event.preventDefault(); // Förhindra att sidan laddas om
         const input_1 = document.getElementById("stad_1").value; // assigns search input variable name
-        document.getElementById("output_stad_1").textContent = "Startplats: " + input_1; // changes content of paragraph result
+        document.getElementById("output_stad_1").textContent = "Från: " + input_1; // changes content of paragraph result
+    });
+
+    document.getElementById("sokruta_2").addEventListener("submit", function(event) {
+        event.preventDefault(); // Förhindra att sidan laddas om
+        const input_2 = document.getElementById("stad_2").value; // assigns search input variable name
+        document.getElementById("output_stad_2").textContent = "Till: " + input_2; // changes content of paragraph result
     });
     </script>
 
