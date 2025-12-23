@@ -14,6 +14,8 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         document.getElementById("search_request").textContent = 
         "Du söker avstånd från " + city_s + " till " + city_t; // changes content of paragraph result
 
+
+        
         const source = search(city_s);
         const country_s = source.country;
         const lat_s = source.lat;
@@ -27,5 +29,4 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         document.getElementById("search_result").textContent = 
         city_s + " in " + country_s + " and " + city_t + " in " + country_t;
 
-    }); 
-
+    }) 
