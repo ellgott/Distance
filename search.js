@@ -26,7 +26,7 @@ function haversine(source, target) { // Calculating distance with haversine
     const c = 2*Math.asin(Math.sqrt(a))
     const r = 6371
     const distance = c*r
-    return distance
+    return distance.toFixed(2)
 
 }
 
