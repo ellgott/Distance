@@ -56,11 +56,12 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const target = cities[city_t] // -::-
 
         const distance = haversine(source,target)
+        const part_max = distance / (2*Math.PI*6371)
             
         document.getElementById("search_request").textContent = 
         `Distance from ${city_s}, ${source.country} to ${city_t}, ${target.country}`; // changes content of paragraph result
 
         document.getElementById("search_result").textContent = 
-        `Closest distance is ${distance} kilometres.`;
+        `Closest distance is ${distance} kilometres, which is ${part_max} of furtest possible distance.`;
 
     }) 
