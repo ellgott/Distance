@@ -11,18 +11,31 @@ function extract(city) { // Extract data
     return result
 }
 
+function rescale(coordinate) { // Rescale coordinates
+
+    if (coordinate.includes("S") || coordinate.includes("W")) {
+        const coord = - parseFloat(coordinate.slice(0,-1))
+    }
+    else {
+        const coord = parseFloat(coordinate.slice(0,-1))
+    }
+    return coord
+}
+
+
 function haversine(source, target) { // Calculating distance with haversine
     const to_radians = (degrees) => degrees *Math.PI / 180 // Converting to radians
-    const target_lat = parseFloat(target.lat.slice(0,-1));
-    const target_lon = parseFloat(target.lon.slice(0,-1));
-    const source_lat = parseFloat(source.lat.slice(0,-1));
-    const source_lon = parseFloat(source.lon.slice(0,-1));
+
+    const s_lat = to_radians(rescale(source.lat))
+    const s_lon = to_radians(rescale(source.lon))
+    const t_lat = to_radians(rescale(target.lat))
+    const t_lon = to_radians(rescale(target.lon))
 
 
-    const d_lat = to_radians(target_lat - source_lat)
-    const d_lon = to_radians(target_lon - source_lon)
+    const d_lat = t_lat - s_lat
+    const d_lon = t_lon - t_lat
 
-    const a = Math.sin(d_lat/2)**2 + Math.cos(to_radians(source_lat)) * Math.cos(to_radians(target_lat)) * Math.sin(d_lon/2)**2
+    const a = Math.sin(d_lat/2)**2 + Math.cos(s_lat) * Math.cos(t_lat) * Math.sin(d_lon/2)**2
     const c = 2*Math.asin(Math.sqrt(a))
     const r = 6371
     const distance = c*r
@@ -32,7 +45,7 @@ function haversine(source, target) { // Calculating distance with haversine
 
 
 document.getElementById("search_bar").addEventListener("submit", function(event) {
-        event.preventDefault(); // Page not reloading
+        event.preventDefault(); // Prevents reloading
 
         const city_s = document.getElementById("city_1").value; // assigns search input variable name
         const city_t = document.getElementById("city_2").value; // second city
