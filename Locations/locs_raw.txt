@@ -1,0 +1,1197 @@
+
+      <td><a href="/kabul"  title="Capital City" target="_blank">Kabul</a></td>
+      <td>Afghanistan</td>
+      <td>34.28N</td>
+      <td>69.11E</td>
+    </tr>
+    <tr>
+      <td><a href="/Tirane" title="Capital City" target="_blank">Tirana</a></td>
+      <td>Albania</td>
+      <td>41.18N</td>
+      <td>19.49E</td>
+    </tr>
+    <tr>
+      <td><a href="/Algiers" title="Capital City" target="_blank">Algiers</a></td>
+      <td>Algeria</td>
+      <td>36.42N</td>
+      <td>03.08E</td>
+    </tr>
+    <tr>
+      <td><a href="/Pago-Pago" title="Capital City" target="_blank">Pago Pago</a></td>
+      <td>American Samoa</td>
+      <td>14.16S</td>
+      <td>170.43W</td>
+    </tr>
+    <tr>
+      <td><a href="/Andorra-la-Vella" title="Capital City" target="_blank">Andorra la Vella</a></td>
+      <td>Andorra</td>
+      <td>42.31N</td>
+      <td>01.32E</td>
+    </tr>
+    <tr>
+      <td><a href="/Luanda" title="Capital City" target="_blank">Luanda</a></td>
+      <td>Angola</td>
+      <td>08.50S</td>
+      <td>13.15E</td>
+    </tr>
+    <tr>
+      <td><a href="/Saint-John-s" title="Capital City" target="_blank">Saint John's</a></td>
+      <td>Antigua and Barbuda</td>
+      <td>17.127N</td>
+      <td>61.846W</td>
+    </tr>
+    <tr>
+      <td><a href="/Buenos-Aires" title="Capital City" target="_blank">Buenos Aires</a></td>
+      <td>Argentina</td>
+      <td>36.30S</td>
+      <td>60.00W</td>
+    </tr>
+    <tr>
+      <td><a href="/Yerevan" title="Capital City" target="_blank">Yerevan</a></td>
+      <td>Armenia</td>
+      <td>40.10N</td>
+      <td>44.31E</td>
+    </tr>
+    <tr>
+      <td><a href="/Oranjestad" title="Capital City" target="_blank">Oranjestad</a></td>
+      <td>Aruba</td>
+      <td>12.32N</td>
+      <td>70.02W</td>
+    </tr>
+    <tr>
+      <td><a href="/Canberra" title="Capital City" target="_blank">Canberra</a></td>
+      <td>Australia</td>
+      <td>35.15S</td>
+      <td>149.08E</td>
+    </tr>
+    <tr>
+      <td><a href="/Vienna" title="Capital City" target="_blank">Vienna</a></td>
+      <td>Austria</td>
+      <td>48.12N</td>
+      <td>16.22E</td>
+    </tr>
+    <tr>
+      <td><a href="/Baku" title="Capital City" target="_blank">Baku</a></td>
+      <td>Azerbaijan</td>
+      <td>40.29N</td>
+      <td>49.56E</td>
+    </tr>
+    <tr>
+      <td><a href="/Nassau" title="Capital City" target="_blank">Nassau</a></td>
+      <td>Bahamas</td>
+      <td>25.05N</td>
+      <td>77.20W</td>
+    </tr>
+    <tr>
+      <td><a href="/Manama" title="Capital City" target="_blank">Manama</a></td>
+      <td>Bahrain</td>
+      <td>26.10N</td>
+      <td>50.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Dhaka" title="Capital City" target="_blank">Dhaka</a></td>
+      <td>Bangladesh</td>
+      <td>23.43N</td>
+      <td>90.26E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bridgetown" title="Capital City" target="_blank">Bridgetown</a></td>
+      <td>Barbados</td>
+      <td>13.05N</td>
+      <td>59.30W</td>
+    </tr>
+    <tr>
+      <td><a href="/Minsk" title="Capital City" target="_blank">Minsk</a></td>
+      <td>Belarus</td>
+      <td>53.52N</td>
+      <td>27.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Brussels" title="Capital City" target="_blank">Brussels</a></td>
+      <td>Belgium</td>
+      <td>50.51N</td>
+      <td>04.21E</td>
+    </tr>
+    <tr>
+      <td><a href="/Belmopan" title="Capital City" target="_blank">Belmopan</a></td>
+      <td>Belize</td>
+      <td>17.18N</td>
+      <td>88.30W</td>
+    </tr>
+    <tr>
+      <td><a href="/Porto-Novo" title="Capital City" target="_blank">Porto Novo</a></td>
+      <td>Benin</td>
+      <td>06.23N</td>
+      <td>02.42E</td>
+    </tr>
+    <tr>
+      <td><a href="/Thimphu" title="Capital City" target="_blank">Thimphu</a></td>
+      <td>Bhutan</td>
+      <td>27.31N</td>
+      <td>89.45E</td>
+    </tr>
+    <tr>
+      <td><a href="/La-Paz" title="Capital City" target="_blank">La Paz (administrative) </a>/ <a href="/sucre">Sucre (legislative)</a></td>
+      <td>Bolivia</td>
+      <td>16.20S</td>
+      <td>68.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/Sarajevo" title="Capital City" target="_blank">Sarajevo</a></td>
+      <td>Bosnia and Herzegovina</td>
+      <td>43.52N</td>
+      <td>18.26E</td>
+    </tr>
+    <tr>
+      <td><a href="/Gaborone" title="Capital City" target="_blank">Gaborone</a></td>
+      <td>Botswana</td>
+      <td>24.45S</td>
+      <td>25.57E</td>
+    </tr>
+    <tr>
+      <td><a href="/Brasilia" title="Capital City" target="_blank">Brasilia</a></td>
+      <td>Brazil</td>
+      <td>15.47S</td>
+      <td>47.55W</td>
+    </tr>
+    <tr>
+      <td><a href="/Road-Town" title="Capital City" target="_blank">Road Town</a></td>
+      <td>British Virgin Islands</td>
+      <td>18.27N</td>
+      <td>64.37W</td>
+    </tr>
+    <tr>
+      <td><a href="/Bandar-Seri-Begawan" title="Capital City" target="_blank">Bandar Seri Begawan</a></td>
+      <td>Brunei Darussalam</td>
+      <td>04.52N</td>
+      <td>115.00E</td>
+    </tr>
+    <tr>
+      <td><a href="/Sofia" title="Capital City" target="_blank">Sofia</a></td>
+      <td>Bulgaria</td>
+      <td>42.45N</td>
+      <td>23.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Ouagadougou" title="Capital City" target="_blank">Ouagadougou</a></td>
+      <td>Burkina Faso</td>
+      <td>12.15N</td>
+      <td>01.30W</td>
+    </tr>
+    <tr>
+      <td><a href="/Bujumbura" title="Capital City" target="_blank">Bujumbura</a></td>
+      <td>Burundi</td>
+      <td>03.16S</td>
+      <td>29.18E</td>
+    </tr>
+    <tr>
+      <td><a href="/Phnom-Penh" title="Capital City" target="_blank">Phnom Penh</a></td>
+      <td>Cambodia</td>
+      <td>11.33N</td>
+      <td>104.55E</td>
+    </tr>
+    <tr>
+      <td><a href="/Yaounde" title="Capital City" target="_blank">Yaounde</a></td>
+      <td>Cameroon</td>
+      <td>03.50N</td>
+      <td>11.35E</td>
+    </tr>
+    <tr>
+      <td><a href="/Ottawa" title="Capital City" target="_blank">Ottawa</a></td>
+      <td>Canada</td>
+      <td>45.27N</td>
+      <td>75.42W</td>
+    </tr>
+    <tr>
+      <td><a href="/Praia" title="Capital City" target="_blank">Praia</a></td>
+      <td>Cape Verde</td>
+      <td>15.02N</td>
+      <td>23.34W</td>
+    </tr>
+    <tr>
+      <td><a href="/George-Town" title="Capital City" target="_blank">George Town</a></td>
+      <td>Cayman Islands</td>
+      <td>19.20N</td>
+      <td>81.24W</td>
+    </tr>
+    <tr>
+      <td><a href="/Bangui" title="Capital City" target="_blank">Bangui</a></td>
+      <td>Central African Republic</td>
+      <td>04.23N</td>
+      <td>18.35E</td>
+    </tr>
+    <tr>
+      <td><a href="/NDjamena" title="Capital City" target="_blank">N'Djamena</a></td>
+      <td>Chad</td>
+      <td>12.10N</td>
+      <td>14.59E</td>
+    </tr>
+    <tr>
+      <td><a href="/Santiago" title="Capital City" target="_blank">Santiago</a></td>
+      <td>Chile</td>
+      <td>33.24S</td>
+      <td>70.40W</td>
+    </tr>
+    <tr>
+      <td><a href="/Beijing" title="Capital City" target="_blank">Beijing</a></td>
+      <td>China</td>
+      <td>39.55N</td>
+      <td>116.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bogota" title="Capital City" target="_blank">Bogota</a></td>
+      <td>Colombia</td>
+      <td>04.34N</td>
+      <td>74.00W</td>
+    </tr>
+    <tr>
+      <td><a href="/Moroni" title="Capital City" target="_blank">Moroni</a></td>
+      <td>Comros</td>
+      <td>11.40S</td>
+      <td>43.16E</td>
+    </tr>
+    <tr>
+      <td><a href="/Brazzaville" title="Capital City" target="_blank">Brazzaville</a></td>
+      <td>Congo</td>
+      <td>04.09S</td>
+      <td>15.12E</td>
+    </tr>
+    <tr>
+      <td><a href="/San-Jose" title="Capital City" target="_blank">San Jose</a></td>
+      <td>Costa Rica</td>
+      <td>09.55N</td>
+      <td>84.02W</td>
+    </tr>
+    <tr>
+      <td><a href="/Yamoussoukro" title="Capital City" target="_blank">Yamoussoukro</a></td>
+      <td>Cote d'Ivoire</td>
+      <td>06.49N</td>
+      <td>05.17W</td>
+    </tr>
+    <tr>
+      <td><a href="/Zagreb" title="Capital City" target="_blank">Zagreb</a></td>
+      <td>Croatia</td>
+      <td>45.50N</td>
+      <td>15.58E</td>
+    </tr>
+    <tr>
+      <td><a href="/Havana" title="Capital City" target="_blank">Havana</a></td>
+      <td>Cuba</td>
+      <td>23.08N</td>
+      <td>82.22W</td>
+    </tr>
+    <tr>
+      <td><a href="/Nicosia" title="Capital City" target="_blank">Nicosia</a></td>
+      <td>Cyprus</td>
+      <td>35.10N</td>
+      <td>33.25E</td>
+    </tr>
+    <tr>
+      <td><a href="/Prague" title="Capital City" target="_blank">Prague</a></td>
+      <td>Czech Republic</td>
+      <td>50.05N</td>
+      <td>14.22E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kinshasa" title="Capital City" target="_blank">Kinshasa</a></td>
+      <td>Democratic Republic of the Congo</td>
+      <td>04.20S</td>
+      <td>15.15E</td>
+    </tr>
+    <tr>
+      <td><a href="/Copenhagen" title="Capital City" target="_blank">Copenhagen</a></td>
+      <td>Denmark</td>
+      <td>55.41N</td>
+      <td>12.34E</td>
+    </tr>
+    <tr>
+      <td><a href="/Djibouti" title="Capital City" target="_blank">Djibouti</a></td>
+      <td>Djibouti</td>
+      <td>11.08N</td>
+      <td>42.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Roseau" title="Capital City" target="_blank">Roseau</a></td>
+      <td>Dominica</td>
+      <td>15.20N</td>
+      <td>61.24W</td>
+    </tr>
+    <tr>
+      <td><a href="/Santo-Domingo" title="Capital City" target="_blank">Santo Domingo</a></td>
+      <td>Dominica Republic</td>
+      <td>18.30N</td>
+      <td>69.59W</td>
+    </tr>
+    <tr>
+      <td><a href="/Dili" title="Capital City" target="_blank">Dili</a></td>
+      <td>East Timor</td>
+      <td>08.29S</td>
+      <td>125.34E</td>
+    </tr>
+    <tr>
+      <td><a href="/Quito" title="Capital City" target="_blank">Quito</a></td>
+      <td>Ecuador</td>
+      <td>00.15S</td>
+      <td>78.35W</td>
+    </tr>
+    <tr>
+      <td><a href="/Cairo" title="Capital City" target="_blank">Cairo</a></td>
+      <td>Egypt</td>
+      <td>30.01N</td>
+      <td>31.14E</td>
+    </tr>
+    <tr>
+      <td><a href="/San-Salvador" title="Capital City" target="_blank">San Salvador</a></td>
+      <td>El Salvador</td>
+      <td>13.40N</td>
+      <td>89.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/Malabo" title="Capital City" target="_blank">Malabo</a></td>
+      <td>Equatorial Guinea</td>
+      <td>03.45N</td>
+      <td>08.50E</td>
+    </tr>
+    <tr>
+      <td><a href="/Asmara" title="Capital City" target="_blank">Asmara</a></td>
+      <td>Eritrea</td>
+      <td>15.19N</td>
+      <td>38.55E</td>
+    </tr>
+    <tr>
+      <td><a href="/Tallinn" title="Capital City" target="_blank">Tallinn</a></td>
+      <td>Estonia</td>
+      <td>59.22N</td>
+      <td>24.48E</td>
+    </tr>
+    <tr>
+      <td><a href="/Addis-Ababa" title="Capital City" target="_blank">Addis Ababa</a></td>
+      <td>Ethiopia</td>
+      <td>09.02N</td>
+      <td>38.42E</td>
+    </tr>
+    <tr>
+      <td><a href="/Stanley" title="Capital City" target="_blank">Stanley</a></td>
+      <td>Falkland Islands (Malvinas)</td>
+      <td>51.40S</td>
+      <td>59.51W</td>
+    </tr>
+    <tr>
+      <td><a href="/Torshavn" title="Capital City" target="_blank">Torshavn</a></td>
+      <td>Faroe Islands</td>
+      <td>62.05N</td>
+      <td>06.56W</td>
+    </tr>
+    <tr>
+      <td><a href="/Suva" title="Capital City" target="_blank">Suva</a></td>
+      <td>Fiji</td>
+      <td>18.06S</td>
+      <td>178.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Helsinki" title="Capital City" target="_blank">Helsinki</a></td>
+      <td>Finland</td>
+      <td>60.15N</td>
+      <td>25.03E</td>
+    </tr>
+    <tr>
+      <td><a href="/Paris" title="Capital City" target="_blank">Paris</a></td>
+      <td>France</td>
+      <td>48.50N</td>
+      <td>02.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Cayenne" title="Capital City" target="_blank">Cayenne</a></td>
+      <td>French Guiana</td>
+      <td>05.05N</td>
+      <td>52.18W</td>
+    </tr>
+    <tr>
+      <td><a href="/Papeete" title="Capital City" target="_blank">Papeete</a></td>
+      <td>French Polynesia</td>
+      <td>17.32S</td>
+      <td>149.34W</td>
+    </tr>
+    <tr>
+      <td><a href="/Libreville" title="Capital City" target="_blank">Libreville</a></td>
+      <td>Gabon</td>
+      <td>00.25N</td>
+      <td>09.26E</td>
+    </tr>
+    <tr>
+      <td><a href="/Banjul" title="Capital City" target="_blank">Banjul</a></td>
+      <td>Gambia</td>
+      <td>13.28N</td>
+      <td>16.40W</td>
+    </tr>
+    <tr>
+      <td><a href="/Tbilisi" title="Capital City" target="_blank">T'bilisi</a></td>
+      <td>Georgia</td>
+      <td>41.43N</td>
+      <td>44.50E</td>
+    </tr>
+    <tr>
+      <td><a href="/Berlin" title="Capital City" target="_blank">Berlin</a></td>
+      <td>Germany</td>
+      <td>52.30N</td>
+      <td>13.25E</td>
+    </tr>
+    <tr>
+      <td><a href="/Accra" title="Capital City" target="_blank">Accra</a></td>
+      <td>Ghana</td>
+      <td>05.35N</td>
+      <td>00.06W</td>
+    </tr>
+    <tr>
+      <td><a href="/Athens" title="Capital City" target="_blank">Athens</a></td>
+      <td>Greece</td>
+      <td>37.58N</td>
+      <td>23.46E</td>
+    </tr>
+    <tr>
+      <td><a href="/Nuuk" title="Capital City" target="_blank">Nuuk</a></td>
+      <td>Greenland</td>
+      <td>64.10N</td>
+      <td>51.35W</td>
+    </tr>
+    <tr>
+      <td><a href="/Basse-Terre" title="Capital City" target="_blank">Basse-Terre</a></td>
+      <td>Guadeloupe</td>
+      <td>16.00N</td>
+      <td>61.44W</td>
+    </tr>
+    <tr>
+      <td><a href="/Guatemala" title="Capital City" target="_blank">Guatemala</a></td>
+      <td>Guatemala</td>
+      <td>14.40N</td>
+      <td>90.22W</td>
+    </tr>
+    <tr>
+      <td><a href="/Saint-Peter-Port-city" title="Capital City" target="_blank">St. Peter Port</a></td>
+      <td>Guernsey</td>
+      <td>49.26N</td>
+      <td>02.33W</td>
+    </tr>
+    <tr>
+      <td><a href="/Conakry" title="Capital City" target="_blank">Conakry</a></td>
+      <td>Guinea</td>
+      <td>09.29N</td>
+      <td>13.49W</td>
+    </tr>
+    <tr>
+      <td><a href="/Bissau" title="Capital City" target="_blank">Bissau</a></td>
+      <td>Guinea-Bissau</td>
+      <td>11.45N</td>
+      <td>15.45W</td>
+    </tr>
+    <tr>
+      <td><a href="/Georgetown" title="Capital City" target="_blank">Georgetown</a></td>
+      <td>Guyana</td>
+      <td>06.50N</td>
+      <td>58.12W</td>
+    </tr>
+    <tr>
+      <td><a href="/Port-au-Prince" title="Capital City" target="_blank">Port-au-Prince</a></td>
+      <td>Haiti</td>
+      <td>18.40N</td>
+      <td>72.20W</td>
+    </tr>
+   
+    <tr>
+      <td><a href="/Tegucigalpa" title="Capital City" target="_blank">Tegucigalpa</a></td>
+      <td>Honduras</td>
+      <td>14.05N</td>
+      <td>87.14W</td>
+    </tr>
+    <tr>
+      <td><a href="/Budapest" title="Capital City" target="_blank">Budapest</a></td>
+      <td>Hungary</td>
+      <td>47.29N</td>
+      <td>19.05E</td>
+    </tr>
+    <tr>
+      <td><a href="/Reykjavik" title="Capital City" target="_blank">Reykjavik</a></td>
+      <td>Iceland</td>
+      <td>64.10N</td>
+      <td>21.57W</td>
+    </tr>
+    <tr>
+      <td><a href="/New-Delhi" title="Capital City" target="_blank">New Delhi</a></td>
+      <td>India</td>
+      <td>28.37N</td>
+      <td>77.13E</td>
+    </tr>
+    <tr>
+      <td><a href="/Jakarta" title="Capital City" target="_blank">Jakarta</a></td>
+      <td>Indonesia</td>
+      <td>06.09S</td>
+      <td>106.49E</td>
+    </tr>
+    <tr>
+      <td><a href="/Tehran" title="Capital City" target="_blank">Tehran</a></td>
+      <td>Iran (Islamic Republic of)</td>
+      <td>35.44N</td>
+      <td>51.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Baghdad" title="Capital City" target="_blank">Baghdad</a></td>
+      <td>Iraq</td>
+      <td>33.20N</td>
+      <td>44.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Dublin" title="Capital City" target="_blank">Dublin</a></td>
+      <td>Ireland</td>
+      <td>53.21N</td>
+      <td>06.15W</td>
+    </tr>
+    <tr>
+      <td><a href="/Jerusalem" title="Capital City" target="_blank">Jerusalem</a></td>
+      <td>Israel</td>
+      <td>31.71N</td>
+      <td>35.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/Rome" title="Capital City" target="_blank">Rome</a></td>
+      <td>Italy</td>
+      <td>41.54N</td>
+      <td>12.29E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kingston" title="Capital City" target="_blank">Kingston</a></td>
+      <td>Jamaica</td>
+      <td>18.00N</td>
+      <td>76.50W</td>
+    </tr>
+    <tr>
+      <td><a href="/Amman" title="Capital City" target="_blank">Amman</a></td>
+      <td>Jordan</td>
+      <td>31.57N</td>
+      <td>35.52E</td>
+    </tr>
+    <tr>
+      <td><a href="/Astana" title="Capital City" target="_blank">Astana</a></td>
+      <td>Kazakhstan</td>
+      <td>51.10N</td>
+      <td>71.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Nairobi" title="Capital City" target="_blank">Nairobi</a></td>
+      <td>Kenya</td>
+      <td>01.17S</td>
+      <td>36.48E</td>
+    </tr>
+    <tr>
+      <td><a href="/Tarawa" title="Capital City" target="_blank">Tarawa</a></td>
+      <td>Kiribati</td>
+      <td>01.30N</td>
+      <td>173.00E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kuwait" title="Capital City" target="_blank">Kuwait</a></td>
+      <td>Kuwait</td>
+      <td>29.30N</td>
+      <td>48.00E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bishkek" title="Capital City" target="_blank">Bishkek</a></td>
+      <td>Kyrgyzstan</td>
+      <td>42.54N</td>
+      <td>74.46E</td>
+    </tr>
+    <tr>
+      <td><a href="/Vientiane" title="Capital City" target="_blank">Vientiane</a></td>
+      <td>Lao People's Democratic Republic</td>
+      <td>17.58N</td>
+      <td>102.36E</td>
+    </tr>
+    <tr>
+      <td><a href="/Riga" title="Capital City" target="_blank">Riga</a></td>
+      <td>Latvia</td>
+      <td>56.53N</td>
+      <td>24.08E</td>
+    </tr>
+    <tr>
+      <td><a href="/Beirut" title="Capital City" target="_blank">Beirut</a></td>
+      <td>Lebanon</td>
+      <td>33.53N</td>
+      <td>35.31E</td>
+    </tr>
+    <tr>
+      <td><a href="/Maseru" title="Capital City" target="_blank">Maseru</a></td>
+      <td>Lesotho</td>
+      <td>29.18S</td>
+      <td>27.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Monrovia" title="Capital City" target="_blank">Monrovia</a></td>
+      <td>Liberia</td>
+      <td>06.18N</td>
+      <td>10.47W</td>
+    </tr>
+    <tr>
+      <td><a href="/Tripoli" title="Capital City" target="_blank">Tripoli</a></td>
+      <td>Libyan Arab Jamahiriya</td>
+      <td>32.49N</td>
+      <td>13.07E</td>
+    </tr>
+    <tr>
+      <td><a href="/Vaduz" title="Capital City" target="_blank">Vaduz</a></td>
+      <td>Liechtenstein</td>
+      <td>47.08N</td>
+      <td>09.31E</td>
+    </tr>
+    <tr>
+      <td><a href="/Vilnius" title="Capital City" target="_blank">Vilnius</a></td>
+      <td>Lithuania</td>
+      <td>54.38N</td>
+      <td>25.19E</td>
+    </tr>
+    <tr>
+      <td><a href="/Luxembourg" title="Capital City" target="_blank">Luxembourg</a></td>
+      <td>Luxembourg</td>
+      <td>49.37N</td>
+      <td>06.09E</td>
+    </tr>
+    <tr>
+      <td><a href="/Macau" title="Capital City" target="_blank">Macau</a></td>
+      <td>Macao, China</td>
+      <td>22.12N</td>
+      <td>113.33E</td>
+    </tr>
+    <tr>
+      <td><a href="/Antananarivo" title="Capital City" target="_blank">Antananarivo</a></td>
+      <td>Madagascar</td>
+      <td>18.55S</td>
+      <td>47.31E</td>
+    </tr>
+    <tr>
+      <td><a href="/Skopje" title="Capital City" target="_blank">Skopje</a></td>
+      <td>Macedonia (Former Yugoslav Republic)</td>
+      <td>42.01N</td>
+      <td>21.26E</td>
+    </tr>
+    <tr>
+      <td><a href="/Lilongwe" title="Capital City" target="_blank">Lilongwe</a></td>
+      <td>Malawi</td>
+      <td>14.00S</td>
+      <td>33.48E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kuala-Lumpur" title="Capital City" target="_blank">Kuala Lumpur</a></td>
+      <td>Malaysia</td>
+      <td>03.09N</td>
+      <td>101.41E</td>
+    </tr>
+    <tr>
+      <td><a href="/Male" title="Capital City" target="_blank">Male</a></td>
+      <td>Maldives</td>
+      <td>04.00N</td>
+      <td>73.28E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bamako" title="Capital City" target="_blank">Bamako</a></td>
+      <td>Mali</td>
+      <td>12.34N</td>
+      <td>07.55W</td>
+    </tr>
+    <tr>
+      <td><a href="/Valletta" title="Capital City" target="_blank">Valletta</a></td>
+      <td>Malta</td>
+      <td>35.54N</td>
+      <td>14.31E</td>
+    </tr>
+    <tr>
+      <td><a href="/Fort-de-France" title="Capital City" target="_blank">Fort-de-France</a></td>
+      <td>Martinique</td>
+      <td>14.36N</td>
+      <td>61.02W</td>
+    </tr>
+    <tr>
+      <td><a href="/Nouakchott" title="Capital City" target="_blank">Nouakchott</a></td>
+      <td>Mauritania</td>
+      <td>20.10S</td>
+      <td>57.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Mamoudzou" title="Capital City" target="_blank">Mamoudzou</a></td>
+      <td>Mayotte</td>
+      <td>12.48S</td>
+      <td>45.14E</td>
+    </tr>
+    <tr>
+      <td><a href="/Mexico" title="Capital City" target="_blank">Mexico</a></td>
+      <td>Mexico</td>
+      <td>19.20N</td>
+      <td>99.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/Palikir" title="Capital City" target="_blank">Palikir</a></td>
+      <td>Micronesia (Federated States of)</td>
+      <td>06.55N</td>
+      <td>158.09E</td>
+    </tr>
+    <tr>
+      <td><a href="/Chisinau" title="Capital City" target="_blank">Chisinau</a></td>
+      <td>Moldova, Republic of</td>
+      <td>47.02N</td>
+      <td>28.50E</td>
+    </tr>
+    <tr>
+      <td><a href="/Maputo" title="Capital City" target="_blank">Maputo</a></td>
+      <td>Mozambique</td>
+      <td>25.58S</td>
+      <td>32.32E</td>
+    </tr>
+    <tr>
+      <td><a href="/Yangon" title="Capital City" target="_blank">Yangon</a></td>
+      <td>Myanmar</td>
+      <td>16.45N</td>
+      <td>96.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Windhoek" title="Capital City" target="_blank">Windhoek</a></td>
+      <td>Namibia</td>
+      <td>22.35S</td>
+      <td>17.04E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kathmandu" title="Capital City" target="_blank">Kathmandu</a></td>
+      <td>Nepal</td>
+      <td>27.45N</td>
+      <td>85.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Amsterdam" title="Capital City" target="_blank">Amsterdam</a></td>
+      <td>Netherlands</td>
+      <td>52.23N</td>
+      <td>04.54E</td>
+    </tr>
+    <tr>
+      <td><a href="/Willemstad" title="Capital City" target="_blank">Willemstad</a></td>
+      <td>Netherlands Antilles</td>
+      <td>12.05N</td>
+      <td>69.00W</td>
+    </tr>
+    <tr>
+      <td><a href="/Noumea" title="Capital City" target="_blank">Noumea</a></td>
+      <td>New Caledonia</td>
+      <td>22.17S</td>
+      <td>166.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Wellington" title="Capital City" target="_blank">Wellington</a></td>
+      <td>New Zealand</td>
+      <td>41.19S</td>
+      <td>174.46E</td>
+    </tr>
+    <tr>
+      <td><a href="/Managua" title="Capital City" target="_blank">Managua</a></td>
+      <td>Nicaragua</td>
+      <td>12.06N</td>
+      <td>86.20W</td>
+    </tr>
+    <tr>
+      <td><a href="/Niamey" title="Capital City" target="_blank">Niamey</a></td>
+      <td>Niger</td>
+      <td>13.27N</td>
+      <td>02.06E</td>
+    </tr>
+    <tr>
+      <td><a href="/Abuja" title="Capital City" target="_blank">Abuja</a></td>
+      <td>Nigeria</td>
+      <td>09.05N</td>
+      <td>07.32E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kingston" title="Capital City" target="_blank">Kingston</a></td>
+      <td>Norfolk Island</td>
+      <td>45.20S</td>
+      <td>168.43E</td>
+    </tr>
+    <tr>
+      <td><a href="/Pyongyang" title="Capital City" target="_blank">Pyongyang</a></td>
+      <td>North Korea</td>
+      <td>39.09N</td>
+      <td>125.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Saipan" title="Capital City" target="_blank">Saipan</a></td>
+      <td>Northern Mariana Islands</td>
+      <td>15.12N</td>
+      <td>145.45E</td>
+    </tr>
+    <tr>
+      <td><a href="/Oslo" title="Capital City" target="_blank">Oslo</a></td>
+      <td>Norway</td>
+      <td>59.55N</td>
+      <td>10.45E</td>
+    </tr>
+    <tr>
+      <td><a href="/muscat" title="Capital City" target="_blank">Masqat</a></td>
+      <td>Oman</td>
+      <td>23.37N</td>
+      <td>58.36E</td>
+    </tr>
+    <tr>
+      <td><a href="/Islamabad" title="Capital City" target="_blank">Islamabad</a></td>
+      <td>Pakistan</td>
+      <td>33.40N</td>
+      <td>73.10E</td>
+    </tr>
+    <tr>
+      <td><a href="/Ngerulmud" title="Capital City" target="_blank">Ngerulmud</a></td>
+      <td>Palau</td>
+      <td>)7.5004N</td>
+      <td>134.6243E</td>
+    </tr>
+    <tr>
+      <td><a href="/Panama" title="Capital City" target="_blank">Panama</a></td>
+      <td>Panama</td>
+      <td>09.00N</td>
+      <td>79.25W</td>
+    </tr>
+    <tr>
+      <td><a href="/Port-Moresby" title="Capital City" target="_blank">Port Moresby</a></td>
+      <td>Papua New Guinea</td>
+      <td>09.24S</td>
+      <td>147.08E</td>
+    </tr>
+    <tr>
+      <td><a href="/Asuncion" title="Capital City" target="_blank">Asuncion</a></td>
+      <td>Paraguay</td>
+      <td>25.10S</td>
+      <td>57.30W</td>
+    </tr>
+    <tr>
+      <td><a href="/Lima" title="Capital City" target="_blank">Lima</a></td>
+      <td>Peru</td>
+      <td>12.00S</td>
+      <td>77.00W</td>
+    </tr>
+    <tr>
+      <td><a href="/Manila" title="Capital City" target="_blank">Manila</a></td>
+      <td>Philippines</td>
+      <td>14.40N</td>
+      <td>121.03E</td>
+    </tr>
+    <tr>
+      <td><a href="/Warsaw" title="Capital City" target="_blank">Warsaw</a></td>
+      <td>Poland</td>
+      <td>52.13N</td>
+      <td>21.00E</td>
+    </tr>
+    <tr>
+      <td><a href="/Lisbon" title="Capital City" target="_blank">Lisbon</a></td>
+      <td>Portugal</td>
+      <td>38.42N</td>
+      <td>09.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/San-Juan" title="Capital City" target="_blank">San Juan</a></td>
+      <td>Puerto Rico</td>
+      <td>18.28N</td>
+      <td>66.07W</td>
+    </tr>
+    <tr>
+      <td><a href="/Doha" title="Capital City" target="_blank">Doha</a></td>
+      <td>Qatar</td>
+      <td>25.15N</td>
+      <td>51.35E</td>
+    </tr>
+    <tr>
+      <td><a href="/Seoul" title="Capital City" target="_blank">Seoul</a></td>
+      <td>Republic of Korea</td>
+      <td>37.31N</td>
+      <td>126.58E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bucharest" title="Capital City" target="_blank">Bucuresti</a></td>
+      <td>Romania</td>
+      <td>44.27N</td>
+      <td>26.10E</td>
+    </tr>
+    <tr>
+      <td><a href="/Moscow" title="Capital City" target="_blank">Moskva</a></td>
+      <td>Russian Federation</td>
+      <td>55.45N</td>
+      <td>37.35E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kigali" title="Capital City" target="_blank">Kigali</a></td>
+      <td>Rawanda</td>
+      <td>01.59S</td>
+      <td>30.04E</td>
+    </tr>
+    <tr>
+      <td><a href="/Basseterre" title="Capital City" target="_blank">Basseterre</a></td>
+      <td>Saint Kitts and Nevis</td>
+      <td>17.17N</td>
+      <td>62.43W</td>
+    </tr>
+    <tr>
+      <td><a href="/Castries" title="Capital City" target="_blank">Castries</a></td>
+      <td>Saint Lucia</td>
+      <td>14.02N</td>
+      <td>60.58W</td>
+    </tr>
+    <tr>
+      <td><a href="/Saint-Pierre" title="Capital City" target="_blank">Saint-Pierre</a></td>
+      <td>Saint Pierre and Miquelon</td>
+      <td>46.46N</td>
+      <td>56.12W</td>
+    </tr>
+    <tr>
+      <td><a href="/Kingstown" title="Capital City" target="_blank">Kingstown</a></td>
+      <td>Saint Vincent and the Greenadines</td>
+      <td>13.10N</td>
+      <td>61.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/Apia" title="Capital City" target="_blank">Apia</a></td>
+      <td>Samoa</td>
+      <td>13.50S</td>
+      <td>171.50W</td>
+    </tr>
+    <tr>
+      <td><a href="/San-Marino" title="Capital City" target="_blank">San Marino</a></td>
+      <td>San Marino</td>
+      <td>43.55N</td>
+      <td>12.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Sao-Tome" title="Capital City" target="_blank">Sao Tome</a></td>
+      <td>Sao Tome and Principe</td>
+      <td>00.10N</td>
+      <td>06.39E</td>
+    </tr>
+    <tr>
+      <td><a href="/Riyadh" title="Capital City" target="_blank">Riyadh</a></td>
+      <td>Saudi Arabia</td>
+      <td>24.41N</td>
+      <td>46.42E</td>
+    </tr>
+    <tr>
+      <td><a href="/Dakar" title="Capital City" target="_blank">Dakar</a></td>
+      <td>Senegal</td>
+      <td>14.34N</td>
+      <td>17.29W</td>
+    </tr>
+    <tr>
+      <td><a href="/Freetown" title="Capital City" target="_blank">Freetown</a></td>
+      <td>Sierra Leone</td>
+      <td>08.30N</td>
+      <td>13.17W</td>
+    </tr>
+    <tr>
+      <td><a href="/Bratislava" title="Capital City" target="_blank">Bratislava</a></td>
+      <td>Slovakia</td>
+      <td>48.10N</td>
+      <td>17.07E</td>
+    </tr>
+    <tr>
+      <td><a href="/Ljubljana" title="Capital City" target="_blank">Ljubljana</a></td>
+      <td>Slovenia</td>
+      <td>46.04N</td>
+      <td>14.33E</td>
+    </tr>
+    <tr>
+      <td><a href="/Honiara" title="Capital City" target="_blank">Honiara</a></td>
+      <td>Solomon Islands</td>
+      <td>09.27S</td>
+      <td>159.57E</td>
+    </tr>
+    <tr>
+      <td><a href="/Mogadishu" title="Capital City" target="_blank">Mogadishu</a></td>
+      <td>Somalia</td>
+      <td>02.02N</td>
+      <td>45.25E</td>
+    </tr>
+    <tr>
+      <td><a href="/Pretoria" title="Capital City" target="_blank">Pretoria (administrative)</a></td>
+      <td>South Africa</td>
+      <td>25.44S</td>
+      <td>28.12E</td>
+    </tr>
+    <tr>
+      <td><a href="/Madrid" title="Capital City" target="_blank">Madrid</a></td>
+      <td>Spain</td>
+      <td>40.25N</td>
+      <td>03.45W</td>
+    </tr>
+    <tr>
+      <td><a href="/Khartoum" title="Capital City" target="_blank">Khartoum</a></td>
+      <td>Sudan</td>
+      <td>15.31N</td>
+      <td>32.35E</td>
+    </tr>
+    <tr>
+      <td><a href="/Paramaribo" title="Capital City" target="_blank">Paramaribo</a></td>
+      <td>Suriname</td>
+      <td>05.50N</td>
+      <td>55.10W</td>
+    </tr>
+    <tr>
+      <td><a href="/Mbabane" title="Capital City" target="_blank">Mbabane</a></td>
+      <td>Swaziland</td>
+      <td>26.18S</td>
+      <td>31.06E</td>
+    </tr>
+    <tr>
+      <td><a href="/Stockholm" title="Capital City" target="_blank">Stockholm</a></td>
+      <td>Sweden</td>
+      <td>59.20N</td>
+      <td>18.03E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bern" title="Capital City" target="_blank">Bern</a></td>
+      <td>Switzerland</td>
+      <td>46.57N</td>
+      <td>07.28E</td>
+    </tr>
+    <tr>
+      <td><a href="/Damascus" title="Capital City" target="_blank">Damascus</a></td>
+      <td>Syrian Arab Republic</td>
+      <td>33.30N</td>
+      <td>36.18E</td>
+    </tr>
+    <tr>
+      <td><a href="/Dushanbe" title="Capital City" target="_blank">Dushanbe</a></td>
+      <td>Tajikistan</td>
+      <td>38.33N</td>
+      <td>68.48E</td>
+    </tr>
+    <tr>
+      <td><a href="/Bangkok" title="Capital City" target="_blank">Bangkok</a></td>
+      <td>Thailand</td>
+      <td>13.45N</td>
+      <td>100.35E</td>
+    </tr>
+    <tr>
+      <td><a href="/Lome" title="Capital City" target="_blank">Lome</a></td>
+      <td>Togo</td>
+      <td>06.09N</td>
+      <td>01.20E</td>
+    </tr>
+    <tr>
+      <td><a href="/Nukualofa" title="Capital City" target="_blank">Nuku'alofa</a></td>
+      <td>Tonga</td>
+      <td>21.10S</td>
+      <td>174.00W</td>
+    </tr>
+    <tr>
+      <td><a href="/Tunis" title="Capital City" target="_blank">Tunis</a></td>
+      <td>Tunisia</td>
+      <td>36.50N</td>
+      <td>10.11E</td>
+    </tr>
+    <tr>
+      <td><a href="/Ankara" title="Capital City" target="_blank">Ankara</a></td>
+      <td>Turkey</td>
+      <td>39.57N</td>
+      <td>32.54E</td>
+    </tr>
+    <tr>
+      <td><a href="/Ashgabat" title="Capital City" target="_blank">Ashgabat</a></td>
+      <td>Turkmenistan</td>
+      <td>38.00N</td>
+      <td>57.50E</td>
+    </tr>
+    <tr>
+      <td><a href="/Funafuti" title="Capital City" target="_blank">Funafuti</a></td>
+      <td>Tuvalu</td>
+      <td>08.31S</td>
+      <td>179.13E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kampala" title="Capital City" target="_blank">Kampala</a></td>
+      <td>Uganda</td>
+      <td>00.20N</td>
+      <td>32.30E</td>
+    </tr>
+    <tr>
+      <td><a href="/Kiev" title="Capital City" target="_blank">Kiev</a></td>
+      <td>Ukraine</td>
+      <td>50.30N</td>
+      <td>30.28E</td>
+    </tr>
+    <tr>
+      <td><a href="/Abu-Dhabi" title="Capital City" target="_blank">Abu Dhabi</a></td>
+      <td>United Arab Emirates</td>
+      <td>24.28N</td>
+      <td>54.22E</td>
+    </tr>
+    <tr>
+      <td><a href="/London" title="Capital City" target="_blank">London</a></td>
+      <td>United Kingdom of Great Britain and Northern Ireland</td>
+      <td>51.36N</td>
+      <td>00.05W</td>
+    </tr>
+    <tr>
+      <td><a href="/Dodoma" title="Capital City" target="_blank">Dodoma</a></td>
+      <td>United Republic of Tanzania</td>
+      <td>06.08S</td>
+      <td>35.45E</td>
+    </tr>
+    <tr>
+      <td><a href="/Washington-DC" title="Capital City" target="_blank">Washington DC</a></td>
+      <td>United States of America</td>
+      <td>39.91N</td>
+      <td>77.02W</td>
+    </tr>
+    <tr>
+      <td><a href="/Charlotte-Amalie" title="Capital City" target="_blank">Charlotte Amalie</a></td>
+      <td>United States of Virgin Islands</td>
+      <td>18.21N</td>
+      <td>64.56W</td>
+    </tr>
+    <tr>
+      <td><a href="/Montevideo" title="Capital City" target="_blank">Montevideo</a></td>
+      <td>Uruguay</td>
+      <td>34.50S</td>
+      <td>56.11W</td>
+    </tr>
+    <tr>
+      <td><a href="/Tashkent" title="Capital City" target="_blank">Tashkent</a></td>
+      <td>Uzbekistan</td>
+      <td>41.20N</td>
+      <td>69.10E</td>
+    </tr>
+    <tr>
+      <td><a href="/Port-Vila" title="Capital City" target="_blank">Port-Vila</a></td>
+      <td>Vanuatu</td>
+      <td>17.45S</td>
+      <td>168.18E</td>
+    </tr>
+    <tr>
+      <td><a href="/Caracas" title="Capital City" target="_blank">Caracas</a></td>
+      <td>Venezuela</td>
+      <td>10.30N</td>
+      <td>66.55W</td>
+    </tr>
+    <tr>
+      <td><a href="/Hanoi" title="Capital City" target="_blank">Hanoi</a></td>
+      <td>Viet Nam</td>
+      <td>21.05N</td>
+      <td>105.55E</td>
+    </tr>
+    <tr>
+      <td><a href="/Belgrade" title="Capital City" target="_blank">Belgrade</a></td>
+      <td>Yugoslavia</td>
+      <td>44.50N</td>
+      <td>20.37E</td>
+    </tr>
+    <tr>
+      <td><a href="/Lusaka" title="Capital City" target="_blank">Lusaka</a></td>
+      <td>Zambia</td>
+      <td>15.28S</td>
+      <td>28.16E</td>
+    </tr>
+    <tr>
+      <td><a href="/Harare" title="Capital City" target="_blank">Harare</a></td>
+      <td>Zimbabwe</td>
+      <td>17.43S</td>
+      <td>31.02E</td>
+    </tr>
+  </tbody>
+</table>
