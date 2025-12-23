@@ -7,6 +7,23 @@
 <body>
     <h1>Mätning</h1>
     <p>Är intressant.</p>
+
+    <form id="searchForm">
+        <input type="text" id="searchInput" placeholder="City...">
+        <button type="submit">Search</button>
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+    document.getElementById("searchForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Förhindra att sidan laddas om
+        const input = document.getElementById("searchInput").value;
+        document.getElementById("result").textContent = "Du skrev: " + input;
+    });
+    </script>
+
 </body>
 </html>
+
 
