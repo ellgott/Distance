@@ -17,18 +17,12 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const city_s = document.getElementById("city_1").value; // assigns search input variable name
         const city_t = document.getElementById("city_2").value; // second city
 
-        source = cities['Stockholm']
-        const country_s = source.country
-        const lat_s = source.lat
-        const lon_s = source.lon
+        const source = cities['Stockholm']
 
-        target = cities['Abu Dhabi']
-        const country_t = target.country
-        const lat_t = target.lat
-        const lon_t = target.lon
+        const target = cities['Abu Dhabi']
             
         document.getElementById("search_request").textContent = 
-        `Distance from ${city_s}, ${country_s} to ${city_t}, ${country_t}`; // changes content of paragraph result
+        `Distance from ${city_s}, ${source.country} to ${city_t}, ${target.country}`; // changes content of paragraph result
 
         document.getElementById("search_result").textContent = 
         "Soon to be discovered";
