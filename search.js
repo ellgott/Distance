@@ -12,12 +12,13 @@ function extract(city) { // Extract data
 }
 
 function rescale(coordinate) { // Rescale coordinates
+    let coord;
 
     if (coordinate.includes("S") || coordinate.includes("W")) {
-        const coord = - parseFloat(coordinate.slice(0,-1))
+        coord = - parseFloat(coordinate.slice(0,-1))
     }
     else {
-        const coord = parseFloat(coordinate.slice(0,-1))
+        coord = parseFloat(coordinate.slice(0,-1))
     }
     return coord
 }
