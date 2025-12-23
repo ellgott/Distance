@@ -41,7 +41,7 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
 
         const target = cities['Abu Dhabi'] // -::-
 
-        const distance = haversine(source.target)
+        const distance = haversine(source,target)
             
         document.getElementById("search_request").textContent = 
         `Distance from ${city_s}, ${source.country} to ${city_t}, ${target.country}`; // changes content of paragraph result
