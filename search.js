@@ -8,8 +8,7 @@ function extract(city) { // Extract data
     if (!result) {
         return "City does not exist in database"
     }
-    const {country, lat, lon} = result
-    return { country, lat, lon }  // Triple object
+    return result
 }
 
 document.getElementById("search_bar").addEventListener("submit", function(event) {
@@ -18,12 +17,12 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const city_s = document.getElementById("city_1").value; // assigns search input variable name
         const city_t = document.getElementById("city_2").value; // second city
 
-        source = search(city_s)
+        source = cities['Stockholm']
         const country_s = source.country
         const lat_s = source.lat
         const lon_s = source.lon
 
-        target = search(city_t)
+        target = cities['Abu Dhabi']
         const country_t = target.country
         const lat_t = target.lat
         const lon_t = target.lon
