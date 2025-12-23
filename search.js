@@ -20,6 +20,8 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const city_s = document.getElementById("city_1").value; // assigns search input variable name
         const city_t = document.getElementById("city_2").value; // second city
 
+
+
         document.getElementById("search_request").textContent = 
         "Du söker avstånd från " + city_s + " till " + city_t; // changes content of paragraph result
 

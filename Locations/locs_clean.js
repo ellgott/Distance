@@ -1,4 +1,4 @@
-const cities = {
+export const cities = {
   "Kabul": {
     "country": "Afghanistan",
     "lat": "34.28N",
