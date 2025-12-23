@@ -8,18 +8,18 @@
     <h1>Mätning</h1>
     <p>Är intressant.</p>
 
-    <form id="searchForm">
-        <input type="text" id="searchInput" placeholder="City...">
+    <form id="sokruta_1">
+        <input type="text" id="stad_1" placeholder="City...">
         <button type="submit">Search</button>
     </form>
 
-    <p id="result"></p>
+    <p id="output_stad_1"></p>
 
     <script>
-    document.getElementById("searchForm").addEventListener("submit", function(event) {
+    document.getElementById("sokruta_1").addEventListener("submit", function(event) {
         event.preventDefault(); // Förhindra att sidan laddas om
-        const input = document.getElementById("searchInput").value;
-        document.getElementById("result").textContent = "Du skrev: " + input;
+        const input_1 = document.getElementById("stad_1").value; // assigns search input variable name
+        document.getElementById("output_stad_1").textContent = "Startplats: " + input_1; // changes content of paragraph result
     });
     </script>
 
