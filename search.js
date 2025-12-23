@@ -5,11 +5,11 @@ function search(city) {
 }
 
 
-document.getElementById("sokruta_1").addEventListener("submit", function(event) {
+document.getElementById("search_bar").addEventListener("submit", function(event) {
         event.preventDefault(); // Förhindra att sidan laddas om
 
-        const city_s = document.getElementById("stad_1").value; // assigns search input variable name
-        const city_t = document.getElementById("stad_2").value; // second city
+        const city_s = document.getElementById("city_1").value; // assigns search input variable name
+        const city_t = document.getElementById("city_2").value; // second city
 
         document.getElementById("search_request").textContent = 
         "Du söker avstånd från " + city_s + " till " + city_t; // changes content of paragraph result

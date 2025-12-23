@@ -2,33 +2,25 @@
 <html lang="sv">
 <head>
     <meta charset="utf-8">
-    <title>Avstånd och sånt</title>
+    <title>Avstånd</title>
 </head>
 <body>
-    <h1>Avstånd mellan städer</h1>
-    <p>Är intressant.</p>
+    <h1>Distance between cities</h1>
+    <p>Capitals only for now</p>
 
-    <form id="sokruta_1"> <!--- First searchform ... should have to inputs-->
+    <form id="search_bar"> <!--- First searchform ... should have two inputs-->
         <h2>Från: </h2>
-        <input type="text" id="stad_1" placeholder="Sök efter stad...">
+        <input type="text" id="city_1" placeholder="Name a capital...">
         <br><br>
         <h2>Till: </h2>
-        <input type="text" id="stad_2" placeholder="Sök efter stad...">
-        <button type="submit">Sök</button>
+        <input type="text" id="city_2" placeholder="Name a capital...">
+        <button type="submit">Look up!</button>
     </form>
 
-    <p id="output_stad_1"></p>
-    <p id="output_stad_2"></p>
+    <p id="search_request"></p>
+    <p id="search_result"></p>
 
-    <script>
-    document.getElementById("sokruta_1").addEventListener("submit", function(event) {
-        event.preventDefault(); // Förhindra att sidan laddas om
-        const input_1 = document.getElementById("stad_1").value; // assigns search input variable name
-        document.getElementById("output_stad_1").textContent = "Från: " + input_1; // changes content of paragraph result
-        const input_2 = document.getElementById("stad_2").value // second city
-        document.getElementById("output_stad_2").textContent = "Till: " + input_2
-    });
-    </script>
+    <script src="search.js"></script>
 
 </body>
 </html>
