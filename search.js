@@ -23,7 +23,7 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const {country_t, lat_t, lon_t} = extract(city_t)
             
         document.getElementById("search_request").textContent = 
-        `Du söker avstånd från ${city_s}, ${country_s} till ${city_t}, ${country_t}`; // changes content of paragraph result
+        `Distance from ${city_s}, ${country_s} to ${city_t}, ${country_t}`; // changes content of paragraph result
 
         document.getElementById("search_result").textContent = 
         "Soon to be discovered";
