@@ -15,7 +15,7 @@ city_names.forEach(city => {
 
 // Follow the writing...
 input.addEventListener('change', () => {
-  if (!cityNames.includes(input.value)) {
+  if (!city_names.includes(input.value)) {
     input.value = '';
   }
 });
