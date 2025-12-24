@@ -9,7 +9,8 @@ const city_names = Object.keys(cities);
 // Fill datalist
 city_names.forEach(city => {
   const option = document.createElement('option');
-  option.value = `${city}, ${cities[city].country}`;
+  //option.value = `${city}, ${cities[city].country}`;
+  option.value = city
   datalist.appendChild(option);
 });
 
@@ -69,7 +70,7 @@ document.getElementById("search_bar").addEventListener("submit", function(event)
         const target = cities[city_t] // -::-
 
         const distance = haversine(source,target)
-        const part_max = (distance / (2*Math.PI*6371)).toFixed(2)
+        const part_max = (distance / (Math.PI*6371)).toFixed(2)
             
         document.getElementById("search_request").textContent = 
         `Distance from ${city_s}, ${source.country} to ${city_t}, ${target.country}`; // changes content of paragraph result
