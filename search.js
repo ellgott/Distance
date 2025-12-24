@@ -1,14 +1,27 @@
 import { cities } from "./Locations/locs_clean.js"; // Retrieving my data
 
+const input = document.getElementById('city_1');
+const datalist = document.getElementById('city_list');
+
+// Getting keys
+const city_names = Object.keys(cities);
+
+// Fill datalist
+city_names.forEach(city => {
+  const option = document.createElement('option');
+  option.value = city;
+  datalist.appendChild(option);
+});
+
+// Follow the writing...
+input.addEventListener('change', () => {
+  if (!cityNames.includes(input.value)) {
+    input.value = '';
+  }
+});
+
 function search(city) {
     return cities[city]; // Collecting data from dic
-}
-function extract(city) { // Extract data
-    const result = search(city)
-    if (!result) {
-        return "City does not exist in database"
-    }
-    return result
 }
 
 function rescale(coordinate) { // Rescale coordinates
