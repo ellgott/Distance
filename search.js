@@ -10,7 +10,9 @@ const city_names = Object.keys(cities);
 city_names.forEach(city => {
   const option = document.createElement('option');
   option.value = city;
-  datalist.appendChild(option.value);
+  const country = document.createElement('country')
+  country.value = cities[city].country
+  datalist.appendChild(option.value, country.value);
 });
 
 // Follow the writing...
