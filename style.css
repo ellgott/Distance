@@ -51,6 +51,7 @@ p {
 
 .Result { /* The panel that will show up */
     background-color: antiquewhite;
+    color: black;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
