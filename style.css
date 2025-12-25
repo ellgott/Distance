@@ -33,6 +33,10 @@ p {
 
 }
 
+.hidden {
+    display: none;
+}
+
 .SearchFunction form button {
     width: 100px;
     height: 50px;
@@ -43,7 +47,17 @@ p {
     margin-right: auto;
     margin-bottom: 40px;
 
+}
 
+.Result { /* The panel that will show up */
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .FlexBreak {

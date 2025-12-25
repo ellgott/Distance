@@ -63,6 +63,7 @@ function haversine(source, target) { // Calculating distance with haversine
 
 document.getElementById("search_bar").addEventListener("submit", function(event) {
         event.preventDefault(); // Prevents reloading
+        Result.classlist.remove('hidden') // Materialize the answer panel
 
         const city_s = document.getElementById("city_1").value; // assigns search input variable name
         const city_t = document.getElementById("city_2").value; // second city
