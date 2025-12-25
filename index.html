@@ -3,20 +3,25 @@
 <head>
     <meta charset="utf-8">
     <title>Distance</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Distance calculator</h1>
-    <p>Calculating the shortest distance between capitals of the world</p>
+    <div class="Introduction">
+        <h1>Distance calculator</h1>
+        <p>Calculating the shortest distance between capitals of the world</p>
+    </div>
 
-    <form id="search_bar"> <!--- First searchform ... should have two inputs-->
-        <h2>From: </h2>
-        <input type="text" id="city_1" placeholder="Name a capital..." list="city_list">
-        <br><br>
-        <h2>To: </h2>
-        <input type="text" id="city_2" placeholder="Name a capital..." list="city_list">
-        <button type="submit">Look up!</button>
-        <datalist id="city_list"></datalist> <!-- Introducing options-->
-    </form>
+    <div class="SearchFunction">
+        <form id="search_bar"> <!--- First searchform ... should have two inputs-->
+            <h2>From: </h2>
+            <input type="text" id="city_1" placeholder="Name a capital..." list="city_list">
+            <h2>To: </h2>
+            <input type="text" id="city_2" placeholder="Name a capital..." list="city_list">
+            <div class="FlexBreak"></div>
+            <button type="submit">Look up!</button>
+            <datalist id="city_list"></datalist> <!-- Introducing options-->
+        </form>
+    </div>
 
     <p id="search_request"></p>
     <p id="search_result"></p>

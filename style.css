@@ -1,14 +1,52 @@
  
 body {
-    background-color: cornflowerblue;
+    background-color: rgba(0,30,70,0.6);
     color: black;
     margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 h1 {
+    font-size: larger;
+    text-align: center;
+}
+h2 {
     font-size: large;
+    margin-left: 50px;
 }
 p {
-    color: darkslategray;
+    font-size: large;
     line-height: normal;
+    text-align: center;
+
+}
+
+
+.SearchFunction form{
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.SearchFunction form button {
+    width: 100px;
+    height: 50px;
+    background-color: burlywood;
+    color:black;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+
+
+}
+
+.FlexBreak {
+    flex-basis: 100%;
+    height: 0;
 }
