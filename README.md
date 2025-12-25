@@ -1,5 +1,5 @@
 Testing JavaScript to determine distance between Capitals
 
-- Haversine needs fixing
+- Haversine needs fixing (check)
 - Countries should be visible in options
 - Front end editing

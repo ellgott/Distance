@@ -1,0 +1,14 @@
+ 
+body {
+    background-color: cornflowerblue;
+    color: black;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1 {
+    font-size: large;
+}
+p {
+    color: darkslategray;
+    line-height: normal;
+}
