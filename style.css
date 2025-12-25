@@ -33,9 +33,6 @@ p {
 
 }
 
-.hidden {
-    display: none;
-}
 
 .SearchFunction form button {
     width: 100px;
@@ -55,10 +52,12 @@ p {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 20px;
     width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.hidden {
+    display: none;
 }
 
 .FlexBreak {
