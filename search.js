@@ -50,7 +50,7 @@ function haversine(source, target) { // Calculating distance with haversine
 
 
     const d_lat = t_lat - s_lat
-    const d_lon = t_lon - t_lat
+    const d_lon = t_lon - s_lon
 
     const a = Math.sin(d_lat/2)**2 + Math.cos(s_lat) * Math.cos(t_lat) * Math.sin(d_lon/2)**2
     const c = 2*Math.asin(Math.sqrt(a))
