@@ -30,6 +30,7 @@ function rescale(coordinate) { // Rescale coordinates
 
     if (coordinate.includes("S") || coordinate.includes("W")) {
         coord = - parseFloat(coordinate.slice(0,-1))
+        console.log('Negative coordinates')
     }
     else {
         coord = parseFloat(coordinate.slice(0,-1))
