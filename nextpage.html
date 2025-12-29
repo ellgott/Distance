@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <title>Distance</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="search.js" ></script>
+</head>
+
+<body>
+    <div class="TopShelf">
+        <h1>Guess which one's closest?</h1>
+        <p> Choose a city to start from. Which of the following two cities are closest?</p>
+    </div>
+
+    <div class="StartCity">
+            <form id="Start"> <!--- starting point-->
+            <h2>Starting in: </h2>
+            <input type="text" id="city_1" placeholder="Ex. Stockholm" list="city_list">
+            <button type="submit">Choose</button>
+            <datalist id="city_list"></datalist> <!-- Introducing options-->
+            <p id="start_information"></p>
+        </form>
+    </div>
+
+    <div class="Options hidden">
+        <form id="options_choice">
+            <p id="option_1" ></p> <button>Choose</button>
+            <div class="FlexBreak"></div>
+            <p id="option_2"></p> <button id="">Choose</button>
+            <div class="FlexBreak"></div>
+        </form>
+    </div>
+
+</body>

@@ -1,7 +1,6 @@
 import re
 import json
 
-lines = []
 cities = {}
 
 with open("locs_raw.txt", "r", encoding="utf-8") as f:

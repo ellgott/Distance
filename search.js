@@ -25,7 +25,7 @@ function search(city) {
     return cities[city]; // Collecting data from dic
 }
 
-function rescale(coordinate) { // Rescale coordinates
+export function rescale(coordinate) { // Rescale coordinates
     let coord;
 
     if (coordinate.includes("S") || coordinate.includes("W")) {
@@ -40,7 +40,7 @@ function rescale(coordinate) { // Rescale coordinates
 }
 
 
-function haversine(source, target) { // Calculating distance with haversine
+export function haversine(source, target) { // Calculating distance with haversine
     const to_radians = (degrees) => degrees *Math.PI / 180 // Converting to radians
 
     const s_lat = to_radians(rescale(source.lat))
@@ -59,7 +59,6 @@ function haversine(source, target) { // Calculating distance with haversine
     return distance.toFixed(2)
 
 }
-
 
 document.getElementById("search_bar").addEventListener("submit", function(event) {
         event.preventDefault(); // Prevents reloading
