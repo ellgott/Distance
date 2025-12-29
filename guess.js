@@ -39,23 +39,29 @@ document.getElementById("Start").addEventListener("submit", function(event) {
     event.preventDefault();
     const startpoint = document.getElementById("city_1").value
     const source = cities[startpoint]
+
     document.getElementById("start_information").textContent = 
         `Starting from ${startpoint}, ${source.country}, which of the following is closest?`; // changes content of paragraph result
-    result.classList.remove("hidden");
+
+    const Options = document.getElementById("Options");
+    Options.classList.remove("hidden"); // Materialize the answer panel, remove the hidden
+
+
     let option_1 = randomCity()
-    while (option_1 == city_1) {
+    while (option_1 == startpoint) {
         option_1 = randomCity()
     }
     console.log(`Option 1 is ${option_1}`)
-    document.getElementById("option_1").textContent = `${option_1}, ${cities[option_1].country}`
+
     let option_2 = randomCity()
-    while (option_2 == city_1 || option_2 == option_1) {
+    while (option_2 == startpoint || option_2 == option_1) {
         option_2 = randomCity()
     }
     console.log(`Option 1 is ${option_1}`)
     document.getElementById("option_1").textContent = `${option_1}, ${cities[option_1].country}`
     console.log(`Option 2 is ${option_2}`)
     document.getElementById("option_2").textContent = `${option_2}, ${cities[option_2].country}`
-    let correct = closestCity(city_1,option_1, option_2)
+
+    let correct = closestCity(startpoint,option_1, option_2)
 });
 
